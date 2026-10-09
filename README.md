@@ -2,7 +2,6 @@
 
 I build AI agents that plug into real systems and real data. Most recently I co-built **PriorAuth Preflight**, a multi-agent system that reads a patient's FHIR chart, checks it against insurer criteria, and tells a clinician whether a prior-authorization request is ready to submit, or exactly what documentation is missing.
 
-- Currently: **looking for Forward Deployed Engineering roles**
 - I work with **Python, TypeScript, R, Google ADK, MCP, FHIR, Fly.io**
 - Reach me: [LinkedIn](https://www.linkedin.com/in/sanjit-saji-b525921b5/) · [sanjitsaji2004@gmail.com](mailto:sanjitsaji2004@gmail.com)
 
