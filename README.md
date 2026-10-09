@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Sanjit2004
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with different people on various projects and code to our hearts content together.
-- 📫 How to reach me:Instagram - sxnj_.t
-                      Email - sanjitsaji2004@gmail.com
-                      
-<!---
-Sanjit2004/Sanjit2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Sanjit Saji
+
+I build AI agents that plug into real systems and real data. Most recently I co-built **PriorAuth Preflight**, a multi-agent system that reads a patient's FHIR chart, checks it against insurer criteria, and tells a clinician whether a prior-authorization request will be approved before it is submitted.
+
+- Currently: **looking for Forward Deployed Engineering roles**
+- I work with **Python, TypeScript, R, Google ADK, MCP, FHIR, Fly.io**
+- Reach me: [LinkedIn](https://www.linkedin.com/in/sanjit-saji-b525921b5/) · [sanjitsaji2004@gmail.com](mailto:sanjitsaji2004@gmail.com)
+
+#### Selected work
+
+- **[PriorAuth Preflight](https://github.com/agents-assemble/priorauth-agent)**: agent-to-agent (A2A) service plus MCP tool server for lumbar MRI prior authorization, built for the Agents Assemble hackathon. I led the agent layer: an orchestrator with three sub-agents (patient context, criteria evaluation, letter writing), FHIR token handling, synthetic patient bundles with tests, and Fly.io deployment. *Two-person team with [@kevinsgeo](https://github.com/kevinsgeo).*
+- **[IPL Win Probability](https://sanjit2004.github.io/sports-analytics-portfolio/ipl-win-probability.html)**: ball-by-ball win model compared across logistic regression, random forest, and XGBoost, tested on an unseen season. [Code](https://github.com/Sanjit2004/sports-analytics-portfolio)
+- **[IPL Tournament Simulation](https://sanjit2004.github.io/sports-analytics-portfolio/ipl-bradley-terry-tournament-simulation.html)**: Bradley–Terry team strengths and a 20,000-season Monte Carlo replay of the playoffs. [Code](https://github.com/Sanjit2004/sports-analytics-portfolio)
